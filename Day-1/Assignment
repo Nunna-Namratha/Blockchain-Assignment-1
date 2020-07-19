@@ -1,1 +1,18 @@
+ASSIGNMENT - 1 BLOCKCHAIN ESSENTIALS
+
+1. What is your understanding of blockchain?
+A. Blockchain contains blocks tht are linked using cryptography.It is a ledger that records the 
+   transactions in a very efficient and verifiable way.
+
+2. What is the core problem blockchain trying to solve?
+A. Blockchain addresses the problem of data security and trust by making the ledger public.
+
+3. What are the few features which blockchain will give you?
+A. Highly secured, immutable, verifiable, decentralization , tamper-proof, unchangeable.
+
+4. What all things does a block contain?
+A. Block Number, Transaction record, Previous Block signature.
+
+5. How is the verifiability of blockchain is been attained?
+A. The verifiability of blockchain is attained by the hash of the previous block which is very unique.
 
